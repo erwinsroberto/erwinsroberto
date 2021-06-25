@@ -3,5 +3,5 @@ Olá, eu sou o Erwins, sou estudante de Análise e Desenvolvimento de Sistemas n
 Gosto de aprender coisas novas e procuro sempre melhorar pessoal e profissionalmente. Amo videogames e filmes 😁
 
 **O que pretendo aprender:**
-<i class="devicon-javascript-plain colored"></i>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 

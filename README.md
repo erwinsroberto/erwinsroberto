@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu GitHub 👋
 
 Olá, eu sou o Erwins!
-Estou no 3º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
+Estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
 Atualmente estou estudando Javascript com Nodejs, Java, Angular, PostgreSQL, MongoDB e Spring FrameWork através de um BootCamp
 na Digital Innovation One.
 

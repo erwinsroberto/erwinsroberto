@@ -2,8 +2,8 @@
 
 Olá, eu sou o Erwins!
 Estou no 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec de Itapetininga.
-Atualmente estou estudando Javascript com Nodejs, Java, Angular, PostgreSQL, MongoDB e Spring FrameWork através de um BootCamp
-na Digital Innovation One.
+Atualmente estou trabalhando como QA Analyst utilizando tecnologias como Cypress, Robot-Framework, Selenium e Postman.
+Estou sempre estudando para aprimorar meus conhecimentos nessa área!
 
 **O que pretendo aprender:**
 
